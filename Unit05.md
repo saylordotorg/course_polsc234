@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC324: Latin American/Caribbean Politics"
+course_description: "A detailed survey of the major political issues facing Latin American and Caribbean countries from the pre-colonial era to the present. Topics include the region’s history, geography, economic and social development, political systems, and institutions."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Current Regional Issues** <span id="5"></span> 
 *The final unit of this course concludes by examining some major issues
 that currently confront the nation: regional economic integration, the
