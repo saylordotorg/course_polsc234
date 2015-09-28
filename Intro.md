@@ -238,3 +238,4 @@ the webpages linked above.
 - [Unit 4](https://legacy.saylor.org/polsc324/Unit04/)
 - [Unit 5](https://legacy.saylor.org/polsc324/Unit05/)
 - [Unit 6](https://legacy.saylor.org/polsc324/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC324/POLSC324-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC324/POLSC324-FinalExam-Answers.html)
