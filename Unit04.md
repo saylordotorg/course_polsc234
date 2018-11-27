@@ -93,7 +93,7 @@ id="4.1.1"></span> 
 id="4.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “U.S.-Latin American Relations”**
     Link: The Saylor Foundation’s “[U.S.-Latin American
-    Relations](http://www.saylor.org/site/wp-content/uploads/2012/02/POLSC324-4.2.1-U.S.-Latin-American-Relations.pdf)”
+    Relations](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC324-4.2.1-U.S.-Latin-American-Relations.pdf)”
     (PDF)  
         
      Instructions: Please read this overview of U.S.-Latin American

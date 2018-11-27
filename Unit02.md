@@ -571,7 +571,7 @@ id="2.3.1"></span> 
     Latin America and the Caribbean”**
     Link: The Saylor Foundation’s “[Introduction to Revolutions in Latin
     America and the
-    Caribbean](http://www.saylor.org/site/wp-content/uploads/2012/02/POLSC324-2.3.1-Intro-to-Revolutions.pdf)”
+    Caribbean](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC324-2.3.1-Intro-to-Revolutions.pdf)”
     (PDF)  
         
      Instructions: Please read this brief overview of preliminary
